@@ -1,5 +1,5 @@
 # GroceryGo
-A mobile app that recommends the cheapest place to buy your grocery list using Kotlin, Android Studio, UiPath, and Firebase.
+Project Idea:A mobile app that recommends the cheapest place to buy your grocery list using Kotlin, Android Studio, UiPath, and Firebase.
 
 # Screens from the App UI
 
